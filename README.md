@@ -17,6 +17,9 @@ Golang Hands On!
 - [Part 14](part-14/main.go): advanced router with goji
 - [Part 15](part-15/main.go): json marshalling
 - [Part 16](Part-16/main.go): error handling, advanced if
+- [Part 17](Part-17/main.go): embedding
+- [Part 18](Part-18/main.go): interface
+- [Part 19](Part-19/main.go): worker with WaitGroup
  
  
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
